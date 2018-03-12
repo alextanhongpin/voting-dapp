@@ -1,0 +1,15 @@
+{
+  "name": "ethereum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alextanhongpin <alextan@seekasia.com>",
+  "description": "",
+  "dependencies": {
+    "solc": "^0.4.21",
+    "web3": "ethereum/web3.js"
+  }
+}
